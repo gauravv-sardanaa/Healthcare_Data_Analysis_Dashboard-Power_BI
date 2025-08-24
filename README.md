@@ -15,6 +15,13 @@ This comprehensive dashboard is designed to provide deep insights into healthcar
 
 **Visual Engagement:** Engaging visuals and informative charts make data interpretation effortless.
 
+# How to Use:
+Clone or download the repository to your local machine.
+
+Open the Power BI file using Power BI Desktop.
+
+Explore the dashboard using various filters and interactive elements to gain valuable insights into healthcare data.
+
 # Time-Based Analysis:
 **Trend Analysis:** Explore trends in patient admissions and length of stay over time, enabling predictive analysis and resource planning.
 
@@ -40,13 +47,6 @@ This comprehensive dashboard is designed to provide deep insights into healthcar
 **Power BI:** Leveraged for data visualization, analysis, and dashboard creation.
 
 **DAX (Data Analysis Expressions):** Utilized for advanced analytics and calculations within Power BI.
-
-# How to Use:
-Clone or download the repository to your local machine.
-
-Open the Power BI file using Power BI Desktop.
-
-Explore the dashboard using various filters and interactive elements to gain valuable insights into healthcare data.
 
 # Disclaimer:
 This dashboard is for demonstration and informational purposes only. It does not replace professional medical advice or decision-making.
