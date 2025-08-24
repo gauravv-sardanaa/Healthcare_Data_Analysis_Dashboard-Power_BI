@@ -16,9 +16,9 @@ This comprehensive dashboard is designed to provide deep insights into healthcar
 **Visual Engagement:** Engaging visuals and informative charts make data interpretation effortless.
 
 # How to Use:
-Clone or download the repository to your local machine.
+Download `Healthcare Data Analysis Dashboard.pbix` to your local machine.
 
-Open the Power BI file using Power BI Desktop.
+Open `Healthcare Data Analysis Dashboard.pbix` using Power BI Desktop.
 
 Explore the dashboard using various filters and interactive elements to gain valuable insights into healthcare data.
 
