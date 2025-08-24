@@ -1,7 +1,8 @@
 # Healthcare Data Analysis Dashboard
 Welcome to the Healthcare Analysis Dashboard!
 
-<img width="1264" height="711" alt="image" src="https://github.com/user-attachments/assets/f2785cdc-03df-4d88-b43a-f4a96a3df463" />
+<img width="1266" height="708" alt="image" src="https://github.com/user-attachments/assets/fe23f443-67a0-4dfc-ac20-79151a2b15b3" />
+
 
 This comprehensive dashboard is designed to provide deep insights into healthcare data, facilitating informed decision-making for healthcare providers and administrators. Below, you'll find a detailed overview of the features and functionalities of this dashboard.
 
